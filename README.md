@@ -1,2 +1,2 @@
 # MLCU
-Repo for the code for my ML coursework
+This paper is meant to show how machine learning techniques can be used to detect breast cancer. The paper follows some analysis done on a dataset. The analysis includes exploratory data analysis, preprocessing, feature selection, algorithm selection, and finally, algorithm evaluation using selected metrics. The algorithms implemented are: Support Vector Machines, Stochastic Gradient Descent, Random Forest, and Multilayer Perceptron. MLP had the best performance.
